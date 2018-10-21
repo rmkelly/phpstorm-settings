@@ -1,16 +1,22 @@
 <keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
-  <action id="ActivateProjectToolWindow">
-    <keyboard-shortcut first-keystroke="meta ampersand" />
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="shift meta down" />
   </action>
-  <action id="QuickImplementations">
-    <keyboard-shortcut first-keystroke="alt space" />
+  <action id="MoveStatementDown" />
+  <action id="ResizeToolWindowDown" />
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
-  <action id="Run">
-    <keyboard-shortcut first-keystroke="meta y" />
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
   </action>
-  <action id="RunClass">
-    <keyboard-shortcut first-keystroke="meta t" />
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
   </action>
-  <action id="Vcs.UpdateProject" />
-  <action id="linessorter.sort" />
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
 </keymap>
