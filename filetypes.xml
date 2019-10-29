@@ -13,6 +13,7 @@
       <mapping pattern="componentWithSpaceshipOperatorInAttribute.blade.php" type="PLAIN_TEXT" />
       <mapping pattern="ForgeControntroller" type="PLAIN_TEXT" />
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
+      <mapping pattern="UserResource" type="PLAIN_TEXT" />
       <mapping pattern="Exceptions" type="PLAIN_TEXT" />
       <mapping pattern=".styleci" type="PLAIN_TEXT" />
       <mapping pattern="OrderStatus" type="PLAIN_TEXT" />
