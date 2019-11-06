@@ -4,9 +4,9 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="ignore" type="Git exclude file" />
-      <mapping pattern="UserResource" type="PLAIN_TEXT" />
       <mapping pattern="AcceptsNameAndVendor" type="PLAIN_TEXT" />
       <mapping pattern=".php_cs" type="PLAIN_TEXT" />
+      <mapping pattern="componentWithUnescapedVariable" type="PLAIN_TEXT" />
       <mapping pattern="componentWithQuotelessAttribute" type="PLAIN_TEXT" />
       <mapping pattern="namespacedView1" type="PLAIN_TEXT" />
       <mapping pattern="partials" type="PLAIN_TEXT" />
@@ -18,7 +18,7 @@
       <mapping pattern="OrderStatus" type="PLAIN_TEXT" />
       <mapping pattern="views" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="componentWithUnescapedVariable" type="PLAIN_TEXT" />
+      <mapping pattern="UserResource" type="PLAIN_TEXT" />
       <mapping pattern="FuzzyFilter" type="PLAIN_TEXT" />
       <mapping pattern="using-variables" type="PLAIN_TEXT" />
       <mapping pattern="BalieAuth" type="PLAIN_TEXT" />
