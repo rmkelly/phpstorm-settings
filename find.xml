@@ -13,8 +13,8 @@
     <mask>*.mxml</mask>
     <mask>*.js</mask>
     <mask>*.blade.php</mask>
-    <mask>*.scss</mask>
     <mask>*.vue</mask>
     <mask>*.php</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
