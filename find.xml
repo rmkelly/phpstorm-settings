@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../app/Console/Commands/TeamEmail/TeDownloadMissingFilesCommand.php'" />
-    <option name="defaultScopeName" value="File '.../app/Console/Commands/TeamEmail/TeDownloadMissingFilesCommand.php'" />
-    <option name="SEARCH_SCOPE" value="File '.../app/Console/Commands/TeamEmail/TeDownloadMissingFilesCommand.php'" />
+    <option name="customScope" value="Project 'gfd-hub'" />
+    <option name="defaultScopeName" value="Project 'gfd-hub'" />
+    <option name="SEARCH_SCOPE" value="Project 'gfd-hub'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
